@@ -1,0 +1,6 @@
+Chiques, como challenge para el viernes les dejo ésto:
+Utilizando los métodos de iteración de ES5, consigan lo siguiente:
+	*Cantidad de Kills y Deaths de la partida.
+	*Cantidad de Kills y Deaths por cada equipo.
+	*Del equipo que haya ganado, obtener un array con los participantes que hayan tenido 2 o más KillingSprees.
+	*El SummonerName del player que haya tenido más kills en cada equipo.
